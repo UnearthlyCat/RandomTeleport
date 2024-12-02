@@ -1,0 +1,5 @@
+name: RandomTeleport
+version: 1.0.0
+main: unearthly\randomtp\Main
+api: 5.0.0
+author: UnearthlyCatS
